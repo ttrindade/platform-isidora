@@ -1,12 +1,12 @@
 Proposta: Criar um componente funcional de Joomla que permita o cadastro de clientes com os seguintes dados:
 
-• Nome
-• Sobrenome
-• CPF
-• Endereço
-• Email
-• Telefone
-• Foto
+>>Nome
+>>Sobrenome
+>>CPF
+>>Endereço
+>>Email
+>>Telefone
+>>Foto
 
 O nome e sobrenome serão campos simples de texto, o CPF deverá contar com máscara no campo de texto e checagem simples do dígito verificador do CPF, o endereço deverá ser preenchido via webservice, o cliente deverá informar o CEP e o endereço irá se auto completar, email deverá ter checagem simples, telefone deverá ter máscara para nove dígitos, foto é uma imagem enviada pelo usuário.
 
@@ -29,7 +29,3 @@ Instruções básicas:
 • Para checagens via JS nos campos que requerem este tipo de funcionalidade, favor utilizar JS, jQuery ou preferencialmente jQuery Validator, um plugin especifico para isso que já está embutido no Joomla.
 • Ao final, criar um backup do Joomla utilizando akeeba backup, renomear o arquivo de backup para seu nome e sobrenome, enviar o arquivo JPA para avaliação.
 
-Qualquer dúvida esclarecer EXCLUSIVAMENTE por email, alexandre@isidora.com.br
-
-Prazo: de entrega: 20/09 as 18h
-Forma de entrega: link de GitHub, Wetransfer ou dropbox.
